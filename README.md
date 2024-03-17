@@ -3,12 +3,12 @@
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliforencik&label=Profile%20views&color=0e75b6&style=flat" alt="eliforencik" /> </p>
-<p align="right"> <img src="https://camo.githubusercontent.com/9b787160c82abc558378aac783372d657b79981b074aa2a392397a2f4cd4793a/68747470733a2f2f692e70696e696d672e636f6d2f353634782f31612f38632f38392f31613863383965363032393238343763396238633535636339333361396233612e6a7067" alt="eliforencik" /> </p>
 
 
 - 🔭 I’m currently working on **Rocket**
 
 - 👯I’m currently working on **Face recognition system**
+<p align="right"> <img src="https://camo.githubusercontent.com/9b787160c82abc558378aac783372d657b79981b074aa2a392397a2f4cd4793a/68747470733a2f2f692e70696e696d672e636f6d2f353634782f31612f38632f38392f31613863383965363032393238343763396238633535636339333361396233612e6a7067" alt="eliforencik" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
