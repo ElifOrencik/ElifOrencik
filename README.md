@@ -22,34 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliforencik&show_icons=true&locale=en&layout=compact" alt="eliforencik" /></p>
 
-import random
-
-def tahmin_oyunu():
-    print("Merhaba! Tahmin Oyununa Hoş Geldiniz.")
-    print("1 ile 100 arasında bir sayı tuttum. Bu sayıyı tahmin etmeye çalışın!")
-
-    # Rastgele bir sayı seç
-    tahmin_edilen_sayi = random.randint(1, 100)
-    tahmin_sayisi = 0
-
-    while True:
-        tahmin = int(input("Tahmininiz: "))
-
-        tahmin_sayisi += 1
-
-        if tahmin < tahmin_edilen_sayi:
-            print("Daha büyük bir sayı girin.")
-        elif tahmin > tahmin_edilen_sayi:
-            print("Daha küçük bir sayı girin.")
-        else:
-            print(f"Tebrikler! {tahmin_sayisi}. tahminde doğru sayıyı buldunuz!")
-            break
-
-    devam_et = input("Başka bir oyun oynamak ister misiniz? (E/H): ").lower()
-    if devam_et == "e":
-        tahmin_oyunu()
-    else:
-        print("Oyunu oynadığınız için teşekkürler!")
-
-tahmin_oyunu()
 
