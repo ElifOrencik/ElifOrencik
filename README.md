@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/3b/3d/e8/3b3de8e2399f360ea6caa732ec03fe17.jpg)
+[![MasterHead](                                                     https://i.pinimg.com/564x/3b/3d/e8/3b3de8e2399f360ea6caa732ec03fe17.jpg)
 
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
