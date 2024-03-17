@@ -1,4 +1,4 @@
-[![MasterHead](https://images.wallpapersden.com/image/download/amazing-starry-night-over-mountains-and-river_bGhsZmWUmZqaraWkpJRmZ2VlrWltZQ.jpg)
+[![MasterHead](https://language.link/wp-content/uploads/sites/8/2021/12/Double-Your-Digital-Content-with-a-Translator.jpg)
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
