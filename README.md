@@ -1,7 +1,4 @@
-<div style=" padding-left: 555px;">
-    <img src="https://i.pinimg.com/564x/1a/8c/89/1a8c89e60292847c9b8c55cc933a9b3a.jpg" alt="MasterHead">
-</div>
-
+[![MasterHead](https://i.pinimg.com/564x/45/bd/78/45bd780a33054587ac7d4ed374bd7b0a.jpg)
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
