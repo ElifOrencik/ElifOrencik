@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-left:55px;">
+<div style="text-align: center; padding-left: 55px;">
     <img src="https://i.pinimg.com/564x/1a/8c/89/1a8c89e60292847c9b8c55cc933a9b3a.jpg" alt="MasterHead">
 </div>
 
