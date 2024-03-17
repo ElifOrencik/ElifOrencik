@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
+<img align="right" src="https://i.pinimg.com/564x/1a/8c/89/1a8c89e60292847c9b8c55cc933a9b3a.jpg" alt="MasterHead">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliforencik&label=Profile%20views&color=0e75b6&style=flat" alt="eliforencik" /> </p>
 
 - 🔭 I’m currently working on **Rocket**
