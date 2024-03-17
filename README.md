@@ -1,4 +1,4 @@
-[![MasterHead](https://images.contentstack.io/v3/assets/bltea08f3d94a418a1b/blt0a17e4ca3e2bbf04/64500da7b92bcd61ea7895fb/Watt_code_1200px.png)
+[![MasterHead](https://www.worldanvil.com/uploads/images/fc963052072d8c67715cf9c3d14097ab.png)
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
