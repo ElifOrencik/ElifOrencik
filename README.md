@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ly7iFKrU5sGLFpBL4DUjPzMv6frP7kW4mw&usqp=CAU)
+[![MasterHead](https://www.bhcc.edu/media/02-images/stem/STEM-Events.jpg)
 <h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
