@@ -1,15 +1,14 @@
 ![MasterHead](https://www.worldanvil.com/uploads/images/fc963052072d8c67715cf9c3d14097ab.png)
-<h1 align="center" color: green;>Hi 👋, I'm Elif Orencik</h1>
-
+<h1 align="center">Hi 👋, I'm Elif Orencik</h1>
 <h3 align="center">Software engineer passionate about crafting efficient and elegant solutions.</h3>
 
-<img align="right" src="https://i.pinimg.com/564x/1a/8c/89/1a8c89e60292847c9b8c55cc933a9b3a.jpg" alt="MasterHead">
-
-<p align="left"> <img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif" alt="eliforencik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliforencik&label=Profile%20views&color=0e75b6&style=flat" alt="eliforencik" /> </p>
 
 - 🔭 I’m currently working on **Rocket**
 
 - 👯I’m currently working on **Face recognition system**
+
+<img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif" alt="elif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
